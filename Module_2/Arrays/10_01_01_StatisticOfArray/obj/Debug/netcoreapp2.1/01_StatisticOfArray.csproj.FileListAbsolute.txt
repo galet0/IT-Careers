@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\bin\Debug\netcoreapp2.1\01_StatisticOfArray.deps.json
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\bin\Debug\netcoreapp2.1\01_StatisticOfArray.runtimeconfig.json
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\bin\Debug\netcoreapp2.1\01_StatisticOfArray.runtimeconfig.dev.json
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\bin\Debug\netcoreapp2.1\01_StatisticOfArray.dll
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\bin\Debug\netcoreapp2.1\01_StatisticOfArray.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\obj\Debug\netcoreapp2.1\01_StatisticOfArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\obj\Debug\netcoreapp2.1\01_StatisticOfArray.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\obj\Debug\netcoreapp2.1\01_StatisticOfArray.AssemblyInfo.cs
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\obj\Debug\netcoreapp2.1\01_StatisticOfArray.dll
+C:\Users\asus\source\repos\10_ArraysExercises\01_StatisticOfArray\obj\Debug\netcoreapp2.1\01_StatisticOfArray.pdb

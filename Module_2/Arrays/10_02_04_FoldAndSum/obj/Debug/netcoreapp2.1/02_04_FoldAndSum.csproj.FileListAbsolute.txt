@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\bin\Debug\netcoreapp2.1\02_04_FoldAndSum.deps.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\bin\Debug\netcoreapp2.1\02_04_FoldAndSum.runtimeconfig.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\bin\Debug\netcoreapp2.1\02_04_FoldAndSum.runtimeconfig.dev.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\bin\Debug\netcoreapp2.1\02_04_FoldAndSum.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\bin\Debug\netcoreapp2.1\02_04_FoldAndSum.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\obj\Debug\netcoreapp2.1\02_04_FoldAndSum.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\obj\Debug\netcoreapp2.1\02_04_FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\obj\Debug\netcoreapp2.1\02_04_FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\obj\Debug\netcoreapp2.1\02_04_FoldAndSum.AssemblyInfo.cs
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\obj\Debug\netcoreapp2.1\02_04_FoldAndSum.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_04_FoldAndSum\obj\Debug\netcoreapp2.1\02_04_FoldAndSum.pdb

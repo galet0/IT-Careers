@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_06_Store_UpdatedVersion\bin\Debug\11_01_06_Store_UpdatedVersion.exe.config
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_06_Store_UpdatedVersion\bin\Debug\11_01_06_Store_UpdatedVersion.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_06_Store_UpdatedVersion\bin\Debug\11_01_06_Store_UpdatedVersion.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_06_Store_UpdatedVersion\obj\Debug\11_01_06_Store_UpdatedVersion.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_06_Store_UpdatedVersion\obj\Debug\11_01_06_Store_UpdatedVersion.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_06_Store_UpdatedVersion\obj\Debug\11_01_06_Store_UpdatedVersion.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_06_Store_UpdatedVersion\obj\Debug\11_01_06_Store_UpdatedVersion.pdb

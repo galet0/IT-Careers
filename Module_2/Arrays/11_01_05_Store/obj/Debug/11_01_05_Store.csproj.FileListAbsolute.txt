@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_05_Store\bin\Debug\11_01_05_Store.exe.config
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_05_Store\bin\Debug\11_01_05_Store.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_05_Store\bin\Debug\11_01_05_Store.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_05_Store\obj\Debug\11_01_05_Store.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_05_Store\obj\Debug\11_01_05_Store.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_05_Store\obj\Debug\11_01_05_Store.pdb

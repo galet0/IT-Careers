@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\10_ArraysExercises\11_02_02_LongestSequenceIdenticalItems\bin\Debug\11_02_02_LongestSequenceIdenticalItems.exe.config
+C:\Users\asus\source\repos\10_ArraysExercises\11_02_02_LongestSequenceIdenticalItems\bin\Debug\11_02_02_LongestSequenceIdenticalItems.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_02_02_LongestSequenceIdenticalItems\bin\Debug\11_02_02_LongestSequenceIdenticalItems.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\11_02_02_LongestSequenceIdenticalItems\obj\Debug\11_02_02_LongestSequenceIdenticalItems.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_02_02_LongestSequenceIdenticalItems\obj\Debug\11_02_02_LongestSequenceIdenticalItems.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_02_02_LongestSequenceIdenticalItems\obj\Debug\11_02_02_LongestSequenceIdenticalItems.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\11_02_02_LongestSequenceIdenticalItems\obj\Debug\11_02_02_LongestSequenceIdenticalItems.csprojAssemblyReference.cache

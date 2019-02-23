@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_02_SafetyProcessingArray\bin\Debug\11_01_02_SafetyProcessingArray.exe.config
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_02_SafetyProcessingArray\bin\Debug\11_01_02_SafetyProcessingArray.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_02_SafetyProcessingArray\bin\Debug\11_01_02_SafetyProcessingArray.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_02_SafetyProcessingArray\obj\Debug\11_01_02_SafetyProcessingArray.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_02_SafetyProcessingArray\obj\Debug\11_01_02_SafetyProcessingArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_02_SafetyProcessingArray\obj\Debug\11_01_02_SafetyProcessingArray.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_02_SafetyProcessingArray\obj\Debug\11_01_02_SafetyProcessingArray.pdb

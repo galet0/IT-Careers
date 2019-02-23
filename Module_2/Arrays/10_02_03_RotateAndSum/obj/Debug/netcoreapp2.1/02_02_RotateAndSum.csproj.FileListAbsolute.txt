@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\bin\Debug\netcoreapp2.1\02_02_RotateAndSum.deps.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\bin\Debug\netcoreapp2.1\02_02_RotateAndSum.runtimeconfig.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\bin\Debug\netcoreapp2.1\02_02_RotateAndSum.runtimeconfig.dev.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\bin\Debug\netcoreapp2.1\02_02_RotateAndSum.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\bin\Debug\netcoreapp2.1\02_02_RotateAndSum.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\obj\Debug\netcoreapp2.1\02_02_RotateAndSum.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\obj\Debug\netcoreapp2.1\02_02_RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\obj\Debug\netcoreapp2.1\02_02_RotateAndSum.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\obj\Debug\netcoreapp2.1\02_02_RotateAndSum.AssemblyInfo.cs
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\obj\Debug\netcoreapp2.1\02_02_RotateAndSum.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_RotateAndSum\obj\Debug\netcoreapp2.1\02_02_RotateAndSum.pdb

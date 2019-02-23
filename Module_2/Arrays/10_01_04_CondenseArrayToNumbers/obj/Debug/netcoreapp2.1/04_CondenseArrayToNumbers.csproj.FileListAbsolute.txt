@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\bin\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.deps.json
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\bin\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.runtimeconfig.json
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\bin\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.runtimeconfig.dev.json
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\bin\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.dll
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\bin\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\obj\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\obj\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\obj\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.AssemblyInfo.cs
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\obj\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.dll
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\obj\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\04_CondenseArrayToNumbers\obj\Debug\netcoreapp2.1\04_CondenseArrayToNumbers.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\bin\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.deps.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\bin\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.runtimeconfig.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\bin\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.runtimeconfig.dev.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\bin\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\bin\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\obj\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\obj\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\obj\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.AssemblyInfo.cs
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\obj\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_01_ReverseElementsInArra\obj\Debug\netcoreapp2.1\02_01_ReverseElementsInArray.pdb

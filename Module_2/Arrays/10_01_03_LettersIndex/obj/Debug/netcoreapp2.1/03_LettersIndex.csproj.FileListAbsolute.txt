@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\bin\Debug\netcoreapp2.1\03_LettersIndex.deps.json
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\bin\Debug\netcoreapp2.1\03_LettersIndex.runtimeconfig.json
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\bin\Debug\netcoreapp2.1\03_LettersIndex.runtimeconfig.dev.json
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\bin\Debug\netcoreapp2.1\03_LettersIndex.dll
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\bin\Debug\netcoreapp2.1\03_LettersIndex.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\obj\Debug\netcoreapp2.1\03_LettersIndex.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\obj\Debug\netcoreapp2.1\03_LettersIndex.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\obj\Debug\netcoreapp2.1\03_LettersIndex.AssemblyInfo.cs
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\obj\Debug\netcoreapp2.1\03_LettersIndex.dll
+C:\Users\asus\source\repos\10_ArraysExercises\03_LettersIndex\obj\Debug\netcoreapp2.1\03_LettersIndex.pdb

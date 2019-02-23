@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\bin\Debug\netcoreapp2.1\02_MostCommonNumber.deps.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\bin\Debug\netcoreapp2.1\02_MostCommonNumber.runtimeconfig.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\bin\Debug\netcoreapp2.1\02_MostCommonNumber.runtimeconfig.dev.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\bin\Debug\netcoreapp2.1\02_MostCommonNumber.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\bin\Debug\netcoreapp2.1\02_MostCommonNumber.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\obj\Debug\netcoreapp2.1\02_MostCommonNumber.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\obj\Debug\netcoreapp2.1\02_MostCommonNumber.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\obj\Debug\netcoreapp2.1\02_MostCommonNumber.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\obj\Debug\netcoreapp2.1\02_MostCommonNumber.AssemblyInfo.cs
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\obj\Debug\netcoreapp2.1\02_MostCommonNumber.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_MostCommonNumber\obj\Debug\netcoreapp2.1\02_MostCommonNumber.pdb

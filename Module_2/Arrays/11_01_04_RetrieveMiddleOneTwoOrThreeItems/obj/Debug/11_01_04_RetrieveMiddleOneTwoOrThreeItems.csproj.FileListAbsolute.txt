@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_04_RetrieveMiddleOneTwoOrThreeItems\bin\Debug\11_01_04_RetrieveMiddleOneTwoOrThreeItems.exe.config
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_04_RetrieveMiddleOneTwoOrThreeItems\bin\Debug\11_01_04_RetrieveMiddleOneTwoOrThreeItems.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_04_RetrieveMiddleOneTwoOrThreeItems\bin\Debug\11_01_04_RetrieveMiddleOneTwoOrThreeItems.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_04_RetrieveMiddleOneTwoOrThreeItems\obj\Debug\11_01_04_RetrieveMiddleOneTwoOrThreeItems.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_04_RetrieveMiddleOneTwoOrThreeItems\obj\Debug\11_01_04_RetrieveMiddleOneTwoOrThreeItems.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_04_RetrieveMiddleOneTwoOrThreeItems\obj\Debug\11_01_04_RetrieveMiddleOneTwoOrThreeItems.pdb

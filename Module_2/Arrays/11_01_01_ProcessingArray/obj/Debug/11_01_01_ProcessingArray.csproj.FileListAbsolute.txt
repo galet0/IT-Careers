@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_01_ProcessingArray\bin\Debug\11_01_01_ProcessingArray.exe.config
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_01_ProcessingArray\bin\Debug\11_01_01_ProcessingArray.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_01_ProcessingArray\bin\Debug\11_01_01_ProcessingArray.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_01_ProcessingArray\obj\Debug\11_01_01_ProcessingArray.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_01_ProcessingArray\obj\Debug\11_01_01_ProcessingArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_01_ProcessingArray\obj\Debug\11_01_01_ProcessingArray.exe
+C:\Users\asus\source\repos\10_ArraysExercises\11_01_01_ProcessingArray\obj\Debug\11_01_01_ProcessingArray.pdb

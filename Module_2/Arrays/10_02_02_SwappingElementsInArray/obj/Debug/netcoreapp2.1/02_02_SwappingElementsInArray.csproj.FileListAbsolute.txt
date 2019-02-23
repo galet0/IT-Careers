@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\bin\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.deps.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\bin\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.runtimeconfig.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\bin\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.runtimeconfig.dev.json
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\bin\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\bin\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.pdb
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\obj\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\obj\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\obj\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.AssemblyInfo.cs
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\obj\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.dll
+C:\Users\asus\source\repos\10_ArraysExercises\02_02_SwappingElementsInArray\obj\Debug\netcoreapp2.1\02_02_SwappingElementsInArray.pdb

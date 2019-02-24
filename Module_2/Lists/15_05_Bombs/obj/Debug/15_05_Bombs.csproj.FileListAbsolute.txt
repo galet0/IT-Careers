@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\13_ListsExercises\15_05_Bombs\bin\Debug\15_05_Bombs.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\15_05_Bombs\bin\Debug\15_05_Bombs.exe
+C:\Users\asus\source\repos\13_ListsExercises\15_05_Bombs\bin\Debug\15_05_Bombs.pdb
+C:\Users\asus\source\repos\13_ListsExercises\15_05_Bombs\obj\Debug\15_05_Bombs.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\15_05_Bombs\obj\Debug\15_05_Bombs.exe
+C:\Users\asus\source\repos\13_ListsExercises\15_05_Bombs\obj\Debug\15_05_Bombs.pdb
+C:\Users\asus\source\repos\13_ListsExercises\15_05_Bombs\obj\Debug\15_05_Bombs.csprojAssemblyReference.cache

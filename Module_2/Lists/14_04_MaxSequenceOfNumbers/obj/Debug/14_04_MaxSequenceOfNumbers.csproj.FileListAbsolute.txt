@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\13_ListsExercises\14_04_MaxSequenceOfNumbers\bin\Debug\14_04_MaxSequenceOfNumbers.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\14_04_MaxSequenceOfNumbers\bin\Debug\14_04_MaxSequenceOfNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\14_04_MaxSequenceOfNumbers\bin\Debug\14_04_MaxSequenceOfNumbers.pdb
+C:\Users\asus\source\repos\13_ListsExercises\14_04_MaxSequenceOfNumbers\obj\Debug\14_04_MaxSequenceOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\14_04_MaxSequenceOfNumbers\obj\Debug\14_04_MaxSequenceOfNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\14_04_MaxSequenceOfNumbers\obj\Debug\14_04_MaxSequenceOfNumbers.pdb

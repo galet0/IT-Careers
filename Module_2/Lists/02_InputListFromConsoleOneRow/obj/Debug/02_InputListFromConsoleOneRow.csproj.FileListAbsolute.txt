@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\13_ListsExercises\02_InputListFromConsoleOneRow\bin\Debug\02_InputListFromConsoleOneRow.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\02_InputListFromConsoleOneRow\bin\Debug\02_InputListFromConsoleOneRow.exe
+C:\Users\asus\source\repos\13_ListsExercises\02_InputListFromConsoleOneRow\bin\Debug\02_InputListFromConsoleOneRow.pdb
+C:\Users\asus\source\repos\13_ListsExercises\02_InputListFromConsoleOneRow\obj\Debug\02_InputListFromConsoleOneRow.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\02_InputListFromConsoleOneRow\obj\Debug\02_InputListFromConsoleOneRow.exe
+C:\Users\asus\source\repos\13_ListsExercises\02_InputListFromConsoleOneRow\obj\Debug\02_InputListFromConsoleOneRow.pdb

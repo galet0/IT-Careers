@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\13_ListsExercises\16_02_SortNumbers\bin\Debug\16_02_SortNumbers.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\16_02_SortNumbers\bin\Debug\16_02_SortNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\16_02_SortNumbers\bin\Debug\16_02_SortNumbers.pdb
+C:\Users\asus\source\repos\13_ListsExercises\16_02_SortNumbers\obj\Debug\16_02_SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\16_02_SortNumbers\obj\Debug\16_02_SortNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\16_02_SortNumbers\obj\Debug\16_02_SortNumbers.pdb

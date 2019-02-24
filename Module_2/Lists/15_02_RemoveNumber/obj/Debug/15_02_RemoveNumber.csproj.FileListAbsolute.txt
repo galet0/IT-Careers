@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\13_ListsExercises\15_02_RemoveNumber\bin\Debug\15_02_RemoveNumber.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\15_02_RemoveNumber\bin\Debug\15_02_RemoveNumber.exe
+C:\Users\asus\source\repos\13_ListsExercises\15_02_RemoveNumber\bin\Debug\15_02_RemoveNumber.pdb
+C:\Users\asus\source\repos\13_ListsExercises\15_02_RemoveNumber\obj\Debug\15_02_RemoveNumber.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\15_02_RemoveNumber\obj\Debug\15_02_RemoveNumber.exe
+C:\Users\asus\source\repos\13_ListsExercises\15_02_RemoveNumber\obj\Debug\15_02_RemoveNumber.pdb

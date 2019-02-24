@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\13_ListsExercises\15_03_RemoveNegativeNumbers\bin\Debug\15_03_RemoveNegativeNumbers.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\15_03_RemoveNegativeNumbers\bin\Debug\15_03_RemoveNegativeNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\15_03_RemoveNegativeNumbers\bin\Debug\15_03_RemoveNegativeNumbers.pdb
+C:\Users\asus\source\repos\13_ListsExercises\15_03_RemoveNegativeNumbers\obj\Debug\15_03_RemoveNegativeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\15_03_RemoveNegativeNumbers\obj\Debug\15_03_RemoveNegativeNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\15_03_RemoveNegativeNumbers\obj\Debug\15_03_RemoveNegativeNumbers.pdb

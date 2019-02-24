@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\13_ListsExercises\15_04_MergeLists\bin\Debug\15_04_MergeLists.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\15_04_MergeLists\bin\Debug\15_04_MergeLists.exe
+C:\Users\asus\source\repos\13_ListsExercises\15_04_MergeLists\bin\Debug\15_04_MergeLists.pdb
+C:\Users\asus\source\repos\13_ListsExercises\15_04_MergeLists\obj\Debug\15_04_MergeLists.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\15_04_MergeLists\obj\Debug\15_04_MergeLists.exe
+C:\Users\asus\source\repos\13_ListsExercises\15_04_MergeLists\obj\Debug\15_04_MergeLists.pdb

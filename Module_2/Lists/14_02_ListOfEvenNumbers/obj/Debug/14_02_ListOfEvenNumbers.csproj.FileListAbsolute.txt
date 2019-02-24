@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\13_ListsExercises\14_02_ListOfEvenNumbers\bin\Debug\14_02_ListOfEvenNumbers.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\14_02_ListOfEvenNumbers\bin\Debug\14_02_ListOfEvenNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\14_02_ListOfEvenNumbers\bin\Debug\14_02_ListOfEvenNumbers.pdb
+C:\Users\asus\source\repos\13_ListsExercises\14_02_ListOfEvenNumbers\obj\Debug\14_02_ListOfEvenNumbers.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\13_ListsExercises\14_02_ListOfEvenNumbers\obj\Debug\14_02_ListOfEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\14_02_ListOfEvenNumbers\obj\Debug\14_02_ListOfEvenNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\14_02_ListOfEvenNumbers\obj\Debug\14_02_ListOfEvenNumbers.pdb

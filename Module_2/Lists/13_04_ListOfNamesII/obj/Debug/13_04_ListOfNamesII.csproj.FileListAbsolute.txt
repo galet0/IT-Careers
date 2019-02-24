@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\13_ListsExercises\13_04_ListOfNamesII\bin\Debug\13_04_ListOfNamesII.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\13_04_ListOfNamesII\bin\Debug\13_04_ListOfNamesII.exe
+C:\Users\asus\source\repos\13_ListsExercises\13_04_ListOfNamesII\bin\Debug\13_04_ListOfNamesII.pdb
+C:\Users\asus\source\repos\13_ListsExercises\13_04_ListOfNamesII\obj\Debug\13_04_ListOfNamesII.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\13_ListsExercises\13_04_ListOfNamesII\obj\Debug\13_04_ListOfNamesII.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\13_04_ListOfNamesII\obj\Debug\13_04_ListOfNamesII.exe
+C:\Users\asus\source\repos\13_ListsExercises\13_04_ListOfNamesII\obj\Debug\13_04_ListOfNamesII.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\13_ListsExercises\14_05_SumReversedNumbers\bin\Debug\14_05_SumReversedNumbers.exe.config
+C:\Users\asus\source\repos\13_ListsExercises\14_05_SumReversedNumbers\bin\Debug\14_05_SumReversedNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\14_05_SumReversedNumbers\bin\Debug\14_05_SumReversedNumbers.pdb
+C:\Users\asus\source\repos\13_ListsExercises\14_05_SumReversedNumbers\obj\Debug\14_05_SumReversedNumbers.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\13_ListsExercises\14_05_SumReversedNumbers\obj\Debug\14_05_SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\13_ListsExercises\14_05_SumReversedNumbers\obj\Debug\14_05_SumReversedNumbers.exe
+C:\Users\asus\source\repos\13_ListsExercises\14_05_SumReversedNumbers\obj\Debug\14_05_SumReversedNumbers.pdb

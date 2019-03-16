@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\01_TakeAndGo\bin\Debug\01_TakeAndGo.exe.config
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\01_TakeAndGo\bin\Debug\01_TakeAndGo.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\01_TakeAndGo\bin\Debug\01_TakeAndGo.pdb
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\01_TakeAndGo\obj\Debug\01_TakeAndGo.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\01_TakeAndGo\obj\Debug\01_TakeAndGo.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\01_TakeAndGo\obj\Debug\01_TakeAndGo.pdb

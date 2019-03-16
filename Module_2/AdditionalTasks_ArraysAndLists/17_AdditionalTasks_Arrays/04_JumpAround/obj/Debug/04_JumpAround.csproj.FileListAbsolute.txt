@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\04_JumpAround\bin\Debug\04_JumpAround.exe.config
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\04_JumpAround\bin\Debug\04_JumpAround.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\04_JumpAround\bin\Debug\04_JumpAround.pdb
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\04_JumpAround\obj\Debug\04_JumpAround.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\04_JumpAround\obj\Debug\04_JumpAround.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\04_JumpAround\obj\Debug\04_JumpAround.pdb

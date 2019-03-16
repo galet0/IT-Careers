@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\12_ArraysSortDemo\01_BubbleSortArray\bin\Debug\01_BubbleSortArray.exe.config
+C:\Users\asus\source\repos\12_ArraysSortDemo\01_BubbleSortArray\bin\Debug\01_BubbleSortArray.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\01_BubbleSortArray\bin\Debug\01_BubbleSortArray.pdb
+C:\Users\asus\source\repos\12_ArraysSortDemo\01_BubbleSortArray\obj\Debug\01_BubbleSortArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\01_BubbleSortArray\obj\Debug\01_BubbleSortArray.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\01_BubbleSortArray\obj\Debug\01_BubbleSortArray.pdb

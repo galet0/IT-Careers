@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_01_StringArrayComparsion\bin\Debug\12_01_StringArrayComparsion.exe.config
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_01_StringArrayComparsion\bin\Debug\12_01_StringArrayComparsion.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_01_StringArrayComparsion\bin\Debug\12_01_StringArrayComparsion.pdb
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_01_StringArrayComparsion\obj\Debug\12_01_StringArrayComparsion.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_01_StringArrayComparsion\obj\Debug\12_01_StringArrayComparsion.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_01_StringArrayComparsion\obj\Debug\12_01_StringArrayComparsion.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_01_StringArrayComparsion\obj\Debug\12_01_StringArrayComparsion.pdb

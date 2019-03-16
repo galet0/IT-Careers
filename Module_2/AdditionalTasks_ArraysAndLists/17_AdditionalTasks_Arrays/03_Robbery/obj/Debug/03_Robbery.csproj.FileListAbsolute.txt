@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\03_Robbery\bin\Debug\03_Robbery.exe.config
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\03_Robbery\bin\Debug\03_Robbery.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\03_Robbery\bin\Debug\03_Robbery.pdb
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\03_Robbery\obj\Debug\03_Robbery.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\03_Robbery\obj\Debug\03_Robbery.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\03_Robbery\obj\Debug\03_Robbery.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\03_Robbery\obj\Debug\03_Robbery.pdb

@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\12_ArraysSortDemo\03_SortArrayByInsertion\bin\Debug\03_SortArrayByInsertion.exe.config
+C:\Users\asus\source\repos\12_ArraysSortDemo\03_SortArrayByInsertion\bin\Debug\03_SortArrayByInsertion.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\03_SortArrayByInsertion\bin\Debug\03_SortArrayByInsertion.pdb
+C:\Users\asus\source\repos\12_ArraysSortDemo\03_SortArrayByInsertion\obj\Debug\03_SortArrayByInsertion.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\03_SortArrayByInsertion\obj\Debug\03_SortArrayByInsertion.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\03_SortArrayByInsertion\obj\Debug\03_SortArrayByInsertion.pdb

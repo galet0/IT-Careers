@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_05_SortArray\bin\Debug\12_05_SortArray.exe.config
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_05_SortArray\bin\Debug\12_05_SortArray.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_05_SortArray\bin\Debug\12_05_SortArray.pdb
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_05_SortArray\obj\Debug\12_05_SortArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_05_SortArray\obj\Debug\12_05_SortArray.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_05_SortArray\obj\Debug\12_05_SortArray.pdb

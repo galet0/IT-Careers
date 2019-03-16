@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_03_SearchElementInSortedArray\bin\Debug\12_03_SearchElementInSortedArray.exe.config
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_03_SearchElementInSortedArray\bin\Debug\12_03_SearchElementInSortedArray.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_03_SearchElementInSortedArray\bin\Debug\12_03_SearchElementInSortedArray.pdb
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_03_SearchElementInSortedArray\obj\Debug\12_03_SearchElementInSortedArray.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_03_SearchElementInSortedArray\obj\Debug\12_03_SearchElementInSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_03_SearchElementInSortedArray\obj\Debug\12_03_SearchElementInSortedArray.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_03_SearchElementInSortedArray\obj\Debug\12_03_SearchElementInSortedArray.pdb

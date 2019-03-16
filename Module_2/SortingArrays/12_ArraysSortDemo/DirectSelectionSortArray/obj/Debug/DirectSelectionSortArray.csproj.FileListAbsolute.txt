@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\12_ArraysSortDemo\DirectSelectionSortArray\bin\Debug\DirectSelectionSortArray.exe.config
+C:\Users\asus\source\repos\12_ArraysSortDemo\DirectSelectionSortArray\bin\Debug\DirectSelectionSortArray.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\DirectSelectionSortArray\bin\Debug\DirectSelectionSortArray.pdb
+C:\Users\asus\source\repos\12_ArraysSortDemo\DirectSelectionSortArray\obj\Debug\DirectSelectionSortArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\DirectSelectionSortArray\obj\Debug\DirectSelectionSortArray.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\DirectSelectionSortArray\obj\Debug\DirectSelectionSortArray.pdb

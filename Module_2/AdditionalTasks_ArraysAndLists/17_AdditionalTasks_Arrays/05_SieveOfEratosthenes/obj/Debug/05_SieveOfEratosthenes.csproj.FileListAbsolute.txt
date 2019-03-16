@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\05_SieveOfEratosthenes\bin\Debug\05_SieveOfEratosthenes.exe.config
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\05_SieveOfEratosthenes\bin\Debug\05_SieveOfEratosthenes.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\05_SieveOfEratosthenes\bin\Debug\05_SieveOfEratosthenes.pdb
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\05_SieveOfEratosthenes\obj\Debug\05_SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\05_SieveOfEratosthenes\obj\Debug\05_SieveOfEratosthenes.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\05_SieveOfEratosthenes\obj\Debug\05_SieveOfEratosthenes.pdb

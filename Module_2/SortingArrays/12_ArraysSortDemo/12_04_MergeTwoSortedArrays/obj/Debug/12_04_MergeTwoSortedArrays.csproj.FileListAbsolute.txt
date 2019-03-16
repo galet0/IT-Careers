@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_04_MergeTwoSortedArrays\bin\Debug\12_04_MergeTwoSortedArrays.exe.config
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_04_MergeTwoSortedArrays\bin\Debug\12_04_MergeTwoSortedArrays.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_04_MergeTwoSortedArrays\bin\Debug\12_04_MergeTwoSortedArrays.pdb
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_04_MergeTwoSortedArrays\obj\Debug\12_04_MergeTwoSortedArrays.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_04_MergeTwoSortedArrays\obj\Debug\12_04_MergeTwoSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_04_MergeTwoSortedArrays\obj\Debug\12_04_MergeTwoSortedArrays.exe
+C:\Users\asus\source\repos\12_ArraysSortDemo\12_04_MergeTwoSortedArrays\obj\Debug\12_04_MergeTwoSortedArrays.pdb

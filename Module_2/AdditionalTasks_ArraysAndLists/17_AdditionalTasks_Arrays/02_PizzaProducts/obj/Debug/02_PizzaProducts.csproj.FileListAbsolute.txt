@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\02_PizzaProducts\bin\Debug\02_PizzaProducts.exe.config
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\02_PizzaProducts\bin\Debug\02_PizzaProducts.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\02_PizzaProducts\bin\Debug\02_PizzaProducts.pdb
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\02_PizzaProducts\obj\Debug\02_PizzaProducts.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\02_PizzaProducts\obj\Debug\02_PizzaProducts.exe
+C:\Users\asus\source\repos\17_AdditionalTasks_Arrays\02_PizzaProducts\obj\Debug\02_PizzaProducts.pdb

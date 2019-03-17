@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_01_CryptoInvestments_Variant2\bin\Debug\01_01_CryptoInvestments_Variant2.exe.config
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_01_CryptoInvestments_Variant2\bin\Debug\01_01_CryptoInvestments_Variant2.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_01_CryptoInvestments_Variant2\bin\Debug\01_01_CryptoInvestments_Variant2.pdb
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_01_CryptoInvestments_Variant2\obj\Debug\01_01_CryptoInvestments_Variant2.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_01_CryptoInvestments_Variant2\obj\Debug\01_01_CryptoInvestments_Variant2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_01_CryptoInvestments_Variant2\obj\Debug\01_01_CryptoInvestments_Variant2.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_01_CryptoInvestments_Variant2\obj\Debug\01_01_CryptoInvestments_Variant2.pdb

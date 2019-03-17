@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_04_TouristDestinations\bin\Debug\01_04_TouristDestinations.exe.config
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_04_TouristDestinations\bin\Debug\01_04_TouristDestinations.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_04_TouristDestinations\bin\Debug\01_04_TouristDestinations.pdb
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_04_TouristDestinations\obj\Debug\01_04_TouristDestinations.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_04_TouristDestinations\obj\Debug\01_04_TouristDestinations.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_04_TouristDestinations\obj\Debug\01_04_TouristDestinations.pdb

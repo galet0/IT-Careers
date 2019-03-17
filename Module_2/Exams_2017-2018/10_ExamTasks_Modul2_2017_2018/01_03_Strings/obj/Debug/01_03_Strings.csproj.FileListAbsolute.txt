@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_03_Strings\bin\Debug\01_03_Strings.exe.config
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_03_Strings\bin\Debug\01_03_Strings.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_03_Strings\bin\Debug\01_03_Strings.pdb
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_03_Strings\obj\Debug\01_03_Strings.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_03_Strings\obj\Debug\01_03_Strings.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_03_Strings\obj\Debug\01_03_Strings.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\01_03_Strings\obj\Debug\01_03_Strings.pdb

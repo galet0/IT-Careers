@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_01_Statistic\bin\Debug\02_01_Statistic.exe.config
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_01_Statistic\bin\Debug\02_01_Statistic.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_01_Statistic\bin\Debug\02_01_Statistic.pdb
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_01_Statistic\obj\Debug\02_01_Statistic.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_01_Statistic\obj\Debug\02_01_Statistic.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_01_Statistic\obj\Debug\02_01_Statistic.pdb

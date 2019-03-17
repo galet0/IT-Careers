@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_03_Punctoation\bin\Debug\02_03_Punctoation.exe.config
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_03_Punctoation\bin\Debug\02_03_Punctoation.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_03_Punctoation\bin\Debug\02_03_Punctoation.pdb
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_03_Punctoation\obj\Debug\02_03_Punctoation.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_03_Punctoation\obj\Debug\02_03_Punctoation.exe
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_03_Punctoation\obj\Debug\02_03_Punctoation.pdb
+C:\Users\asus\source\repos\10_ExamTasks_Modul2_2017_2018\02_03_Punctoation\obj\Debug\02_03_Punctoation.csprojAssemblyReference.cache

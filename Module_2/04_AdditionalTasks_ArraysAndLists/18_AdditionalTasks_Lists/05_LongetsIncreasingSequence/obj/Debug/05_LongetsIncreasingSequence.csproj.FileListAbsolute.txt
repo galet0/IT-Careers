@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\05_LongetsIncreasingSequence\bin\Debug\05_LongetsIncreasingSequence.exe.config
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\05_LongetsIncreasingSequence\bin\Debug\05_LongetsIncreasingSequence.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\05_LongetsIncreasingSequence\bin\Debug\05_LongetsIncreasingSequence.pdb
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\05_LongetsIncreasingSequence\obj\Debug\05_LongetsIncreasingSequence.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\05_LongetsIncreasingSequence\obj\Debug\05_LongetsIncreasingSequence.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\05_LongetsIncreasingSequence\obj\Debug\05_LongetsIncreasingSequence.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\05_LongetsIncreasingSequence\obj\Debug\05_LongetsIncreasingSequence.pdb

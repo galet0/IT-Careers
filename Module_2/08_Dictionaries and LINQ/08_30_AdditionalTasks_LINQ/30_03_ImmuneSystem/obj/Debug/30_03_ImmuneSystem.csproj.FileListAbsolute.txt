@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem\bin\Debug\30_03_ImmuneSystem.exe.config
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem\bin\Debug\30_03_ImmuneSystem.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem\bin\Debug\30_03_ImmuneSystem.pdb
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem\obj\Debug\30_03_ImmuneSystem.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem\obj\Debug\30_03_ImmuneSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem\obj\Debug\30_03_ImmuneSystem.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem\obj\Debug\30_03_ImmuneSystem.pdb

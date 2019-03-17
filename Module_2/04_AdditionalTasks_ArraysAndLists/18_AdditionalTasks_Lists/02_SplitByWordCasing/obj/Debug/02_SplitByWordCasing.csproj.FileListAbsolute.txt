@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\02_SplitByWordCasing\bin\Debug\02_SplitByWordCasing.exe.config
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\02_SplitByWordCasing\bin\Debug\02_SplitByWordCasing.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\02_SplitByWordCasing\bin\Debug\02_SplitByWordCasing.pdb
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\02_SplitByWordCasing\obj\Debug\02_SplitByWordCasing.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\02_SplitByWordCasing\obj\Debug\02_SplitByWordCasing.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\02_SplitByWordCasing\obj\Debug\02_SplitByWordCasing.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\02_SplitByWordCasing\obj\Debug\02_SplitByWordCasing.pdb

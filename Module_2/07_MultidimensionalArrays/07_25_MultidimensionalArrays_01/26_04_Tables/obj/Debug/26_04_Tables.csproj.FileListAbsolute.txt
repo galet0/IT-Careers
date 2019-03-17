@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_04_Tables\bin\Debug\26_04_Tables.exe.config
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_04_Tables\bin\Debug\26_04_Tables.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_04_Tables\bin\Debug\26_04_Tables.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_04_Tables\obj\Debug\26_04_Tables.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_04_Tables\obj\Debug\26_04_Tables.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_04_Tables\obj\Debug\26_04_Tables.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_04_Tables\obj\Debug\26_04_Tables.pdb

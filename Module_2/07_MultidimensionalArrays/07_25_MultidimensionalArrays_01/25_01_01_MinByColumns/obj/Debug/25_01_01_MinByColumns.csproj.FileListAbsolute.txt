@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_01_MinByColumns\bin\Debug\25_01_01_MinByColumns.exe.config
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_01_MinByColumns\bin\Debug\25_01_01_MinByColumns.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_01_MinByColumns\bin\Debug\25_01_01_MinByColumns.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_01_MinByColumns\obj\Debug\25_01_01_MinByColumns.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_01_MinByColumns\obj\Debug\25_01_01_MinByColumns.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_01_MinByColumns\obj\Debug\25_01_01_MinByColumns.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_01_MinByColumns\obj\Debug\25_01_01_MinByColumns.csprojAssemblyReference.cache

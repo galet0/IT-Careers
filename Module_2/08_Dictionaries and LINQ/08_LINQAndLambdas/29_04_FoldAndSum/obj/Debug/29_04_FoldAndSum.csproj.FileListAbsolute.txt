@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_04_FoldAndSum\bin\Debug\29_04_FoldAndSum.exe.config
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_04_FoldAndSum\bin\Debug\29_04_FoldAndSum.exe
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_04_FoldAndSum\bin\Debug\29_04_FoldAndSum.pdb
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_04_FoldAndSum\obj\Debug\29_04_FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_04_FoldAndSum\obj\Debug\29_04_FoldAndSum.exe
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_04_FoldAndSum\obj\Debug\29_04_FoldAndSum.pdb

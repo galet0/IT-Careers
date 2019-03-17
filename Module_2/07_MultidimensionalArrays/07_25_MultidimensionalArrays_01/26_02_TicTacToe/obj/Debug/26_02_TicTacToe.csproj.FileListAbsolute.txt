@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_02_TicTacToe\bin\Debug\26_02_TicTacToe.exe.config
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_02_TicTacToe\bin\Debug\26_02_TicTacToe.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_02_TicTacToe\bin\Debug\26_02_TicTacToe.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_02_TicTacToe\obj\Debug\26_02_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_02_TicTacToe\obj\Debug\26_02_TicTacToe.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_02_TicTacToe\obj\Debug\26_02_TicTacToe.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_02_TicTacToe\obj\Debug\26_02_TicTacToe.csprojAssemblyReference.cache

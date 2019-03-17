@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_04_LottaryTicket\bin\Debug\25_01_04_LottaryTicket.exe.config
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_04_LottaryTicket\bin\Debug\25_01_04_LottaryTicket.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_04_LottaryTicket\bin\Debug\25_01_04_LottaryTicket.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_04_LottaryTicket\obj\Debug\25_01_04_LottaryTicket.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_04_LottaryTicket\obj\Debug\25_01_04_LottaryTicket.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_04_LottaryTicket\obj\Debug\25_01_04_LottaryTicket.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_04_LottaryTicket\obj\Debug\25_01_04_LottaryTicket.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_01_SortHours\bin\Debug\30_01_SortHours.exe.config
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_01_SortHours\bin\Debug\30_01_SortHours.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_01_SortHours\bin\Debug\30_01_SortHours.pdb
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_01_SortHours\obj\Debug\30_01_SortHours.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_01_SortHours\obj\Debug\30_01_SortHours.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_01_SortHours\obj\Debug\30_01_SortHours.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_01_SortHours\obj\Debug\30_01_SortHours.pdb

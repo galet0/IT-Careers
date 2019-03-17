@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_01_CountRealNumbers\bin\Debug\28_01_CountRealNumbers.exe.config
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_01_CountRealNumbers\bin\Debug\28_01_CountRealNumbers.exe
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_01_CountRealNumbers\bin\Debug\28_01_CountRealNumbers.pdb
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_01_CountRealNumbers\obj\Debug\28_01_CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_01_CountRealNumbers\obj\Debug\28_01_CountRealNumbers.exe
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_01_CountRealNumbers\obj\Debug\28_01_CountRealNumbers.pdb

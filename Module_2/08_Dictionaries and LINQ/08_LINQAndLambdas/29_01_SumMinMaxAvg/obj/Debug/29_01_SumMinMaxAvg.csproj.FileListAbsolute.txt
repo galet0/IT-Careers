@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_01_SumMinMaxAvg\bin\Debug\29_01_SumMinMaxAvg.exe.config
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_01_SumMinMaxAvg\bin\Debug\29_01_SumMinMaxAvg.exe
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_01_SumMinMaxAvg\bin\Debug\29_01_SumMinMaxAvg.pdb
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_01_SumMinMaxAvg\obj\Debug\29_01_SumMinMaxAvg.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_01_SumMinMaxAvg\obj\Debug\29_01_SumMinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_01_SumMinMaxAvg\obj\Debug\29_01_SumMinMaxAvg.exe
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_01_SumMinMaxAvg\obj\Debug\29_01_SumMinMaxAvg.pdb

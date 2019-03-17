@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_04_EmailRepairs\bin\Debug\30_04_EmailRepairs.exe.config
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_04_EmailRepairs\bin\Debug\30_04_EmailRepairs.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_04_EmailRepairs\bin\Debug\30_04_EmailRepairs.pdb
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_04_EmailRepairs\obj\Debug\30_04_EmailRepairs.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_04_EmailRepairs\obj\Debug\30_04_EmailRepairs.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_04_EmailRepairs\obj\Debug\30_04_EmailRepairs.pdb
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_04_EmailRepairs\obj\Debug\30_04_EmailRepairs.csprojAssemblyReference.cache

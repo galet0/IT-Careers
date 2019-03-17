@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_03_PascalTriangle\obj\Debug\26_03_PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_03_PascalTriangle\bin\Debug\26_03_PascalTriangle.exe.config
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_03_PascalTriangle\bin\Debug\26_03_PascalTriangle.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_03_PascalTriangle\bin\Debug\26_03_PascalTriangle.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_03_PascalTriangle\obj\Debug\26_03_PascalTriangle.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\26_03_PascalTriangle\obj\Debug\26_03_PascalTriangle.pdb

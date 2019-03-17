@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_06_Palindrome\bin\Debug\21_06_Palindrome.exe.config
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_06_Palindrome\bin\Debug\21_06_Palindrome.exe
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_06_Palindrome\bin\Debug\21_06_Palindrome.pdb
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_06_Palindrome\obj\Debug\21_06_Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_06_Palindrome\obj\Debug\21_06_Palindrome.exe
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_06_Palindrome\obj\Debug\21_06_Palindrome.pdb

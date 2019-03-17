@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_03_SortingShortWords\bin\Debug\29_03_SortingShortWords.exe.config
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_03_SortingShortWords\bin\Debug\29_03_SortingShortWords.exe
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_03_SortingShortWords\bin\Debug\29_03_SortingShortWords.pdb
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_03_SortingShortWords\obj\Debug\29_03_SortingShortWords.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_03_SortingShortWords\obj\Debug\29_03_SortingShortWords.exe
+C:\Users\asus\source\repos\08_LINQAndLambdas\29_03_SortingShortWords\obj\Debug\29_03_SortingShortWords.pdb

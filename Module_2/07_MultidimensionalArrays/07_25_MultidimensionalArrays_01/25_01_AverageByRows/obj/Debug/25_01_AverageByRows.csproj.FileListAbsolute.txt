@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_AverageByRows\bin\Debug\25_01_AverageByRows.exe.config
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_AverageByRows\bin\Debug\25_01_AverageByRows.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_AverageByRows\bin\Debug\25_01_AverageByRows.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_AverageByRows\obj\Debug\25_01_AverageByRows.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_AverageByRows\obj\Debug\25_01_AverageByRows.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_AverageByRows\obj\Debug\25_01_AverageByRows.pdb

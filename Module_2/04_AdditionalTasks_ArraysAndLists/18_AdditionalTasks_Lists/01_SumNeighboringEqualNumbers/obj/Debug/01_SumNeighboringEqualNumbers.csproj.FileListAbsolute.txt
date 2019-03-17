@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\01_SumNeighboringEqualNumbers\bin\Debug\01_SumNeighboringEqualNumbers.exe.config
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\01_SumNeighboringEqualNumbers\bin\Debug\01_SumNeighboringEqualNumbers.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\01_SumNeighboringEqualNumbers\bin\Debug\01_SumNeighboringEqualNumbers.pdb
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\01_SumNeighboringEqualNumbers\obj\Debug\01_SumNeighboringEqualNumbers.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\01_SumNeighboringEqualNumbers\obj\Debug\01_SumNeighboringEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\01_SumNeighboringEqualNumbers\obj\Debug\01_SumNeighboringEqualNumbers.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\01_SumNeighboringEqualNumbers\obj\Debug\01_SumNeighboringEqualNumbers.pdb

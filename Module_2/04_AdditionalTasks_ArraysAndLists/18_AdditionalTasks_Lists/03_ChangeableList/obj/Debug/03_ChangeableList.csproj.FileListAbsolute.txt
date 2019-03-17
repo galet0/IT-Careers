@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\03_ChangeableList\bin\Debug\03_ChangeableList.exe.config
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\03_ChangeableList\bin\Debug\03_ChangeableList.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\03_ChangeableList\bin\Debug\03_ChangeableList.pdb
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\03_ChangeableList\obj\Debug\03_ChangeableList.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\03_ChangeableList\obj\Debug\03_ChangeableList.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\03_ChangeableList\obj\Debug\03_ChangeableList.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\03_ChangeableList\obj\Debug\03_ChangeableList.pdb

@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\04_SearchNumber\bin\Debug\04_SearchNumber.exe.config
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\04_SearchNumber\bin\Debug\04_SearchNumber.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\04_SearchNumber\bin\Debug\04_SearchNumber.pdb
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\04_SearchNumber\obj\Debug\04_SearchNumber.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\04_SearchNumber\obj\Debug\04_SearchNumber.exe
+C:\Users\asus\source\repos\18_AdditionalTasks_Lists\04_SearchNumber\obj\Debug\04_SearchNumber.pdb

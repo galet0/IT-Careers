@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_DeclareArrays\bin\Debug\25_01_DeclareArrays.exe.config
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_DeclareArrays\bin\Debug\25_01_DeclareArrays.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_DeclareArrays\bin\Debug\25_01_DeclareArrays.pdb
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_DeclareArrays\obj\Debug\25_01_DeclareArrays.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_DeclareArrays\obj\Debug\25_01_DeclareArrays.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_DeclareArrays\obj\Debug\25_01_DeclareArrays.exe
+C:\Users\asus\source\repos\07_25_MultidimensionalArrays_01\25_01_DeclareArrays\obj\Debug\25_01_DeclareArrays.pdb

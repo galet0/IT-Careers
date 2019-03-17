@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_01_OddOccurences\bin\Debug\27_01_OddOccurences.exe.config
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_01_OddOccurences\bin\Debug\27_01_OddOccurences.exe
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_01_OddOccurences\bin\Debug\27_01_OddOccurences.pdb
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_01_OddOccurences\obj\Debug\27_01_OddOccurences.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_01_OddOccurences\obj\Debug\27_01_OddOccurences.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_01_OddOccurences\obj\Debug\27_01_OddOccurences.exe
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_01_OddOccurences\obj\Debug\27_01_OddOccurences.pdb

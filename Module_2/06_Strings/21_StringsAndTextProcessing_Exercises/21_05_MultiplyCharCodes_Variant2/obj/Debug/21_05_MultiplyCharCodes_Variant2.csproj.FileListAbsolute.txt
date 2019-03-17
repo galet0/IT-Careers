@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes_Variant2\bin\Debug\21_05_MultiplyCharCodes_Variant2.exe.config
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes_Variant2\bin\Debug\21_05_MultiplyCharCodes_Variant2.exe
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes_Variant2\bin\Debug\21_05_MultiplyCharCodes_Variant2.pdb
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes_Variant2\obj\Debug\21_05_MultiplyCharCodes_Variant2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes_Variant2\obj\Debug\21_05_MultiplyCharCodes_Variant2.exe
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes_Variant2\obj\Debug\21_05_MultiplyCharCodes_Variant2.pdb

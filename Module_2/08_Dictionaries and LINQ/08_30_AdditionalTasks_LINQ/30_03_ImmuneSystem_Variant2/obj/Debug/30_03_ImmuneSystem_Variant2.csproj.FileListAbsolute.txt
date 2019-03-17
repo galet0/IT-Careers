@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem_Variant2\bin\Debug\30_03_ImmuneSystem_Variant2.exe.config
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem_Variant2\bin\Debug\30_03_ImmuneSystem_Variant2.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem_Variant2\bin\Debug\30_03_ImmuneSystem_Variant2.pdb
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem_Variant2\obj\Debug\30_03_ImmuneSystem_Variant2.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem_Variant2\obj\Debug\30_03_ImmuneSystem_Variant2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem_Variant2\obj\Debug\30_03_ImmuneSystem_Variant2.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_03_ImmuneSystem_Variant2\obj\Debug\30_03_ImmuneSystem_Variant2.pdb

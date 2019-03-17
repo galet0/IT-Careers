@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_04_Supermarket\bin\Debug\27_04_Supermarket.exe.config
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_04_Supermarket\bin\Debug\27_04_Supermarket.exe
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_04_Supermarket\bin\Debug\27_04_Supermarket.pdb
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_04_Supermarket\obj\Debug\27_04_Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_04_Supermarket\obj\Debug\27_04_Supermarket.exe
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_04_Supermarket\obj\Debug\27_04_Supermarket.pdb
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\27_04_Supermarket\obj\Debug\27_04_Supermarket.csprojAssemblyReference.cache

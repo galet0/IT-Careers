@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_02_OddFilter\bin\Debug\30_02_OddFilter.exe.config
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_02_OddFilter\bin\Debug\30_02_OddFilter.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_02_OddFilter\bin\Debug\30_02_OddFilter.pdb
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_02_OddFilter\obj\Debug\30_02_OddFilter.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_02_OddFilter\obj\Debug\30_02_OddFilter.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_02_OddFilter\obj\Debug\30_02_OddFilter.exe
+C:\Users\asus\source\repos\08_30_AdditionalTasks_LINQ\30_02_OddFilter\obj\Debug\30_02_OddFilter.pdb

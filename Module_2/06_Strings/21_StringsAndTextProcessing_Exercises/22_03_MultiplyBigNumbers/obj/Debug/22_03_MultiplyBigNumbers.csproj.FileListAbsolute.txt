@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_03_MultiplyBigNumbers\bin\Debug\22_03_MultiplyBigNumbers.exe.config
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_03_MultiplyBigNumbers\bin\Debug\22_03_MultiplyBigNumbers.exe
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_03_MultiplyBigNumbers\bin\Debug\22_03_MultiplyBigNumbers.pdb
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_03_MultiplyBigNumbers\obj\Debug\22_03_MultiplyBigNumbers.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_03_MultiplyBigNumbers\obj\Debug\22_03_MultiplyBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_03_MultiplyBigNumbers\obj\Debug\22_03_MultiplyBigNumbers.exe
+C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_03_MultiplyBigNumbers\obj\Debug\22_03_MultiplyBigNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_02_BetterPhonebook\bin\Debug\28_02_BetterPhonebook.exe.config
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_02_BetterPhonebook\bin\Debug\28_02_BetterPhonebook.exe
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_02_BetterPhonebook\bin\Debug\28_02_BetterPhonebook.pdb
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_02_BetterPhonebook\obj\Debug\28_02_BetterPhonebook.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_02_BetterPhonebook\obj\Debug\28_02_BetterPhonebook.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_02_BetterPhonebook\obj\Debug\28_02_BetterPhonebook.exe
+C:\Users\asus\source\repos\08_DictionariesAndHashTables_Exercises\28_02_BetterPhonebook\obj\Debug\28_02_BetterPhonebook.pdb

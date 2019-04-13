@@ -45,6 +45,7 @@ namespace _03_FieldsAndMethods_Exercises
 
                 employees.Add(employee);
             }
+            /*
             //Pesho 120.00 Dev Development pesho@abv.bg 28
             //Toncho 333.33 Manager Marketing 33
             //Ivan 840.20 ProjectLeader Development ivan @ivan.com
@@ -68,6 +69,38 @@ namespace _03_FieldsAndMethods_Exercises
             foreach (Employee employee in topDepartment.Value.OrderByDescending(x => x.Salary))
             {
                 Console.WriteLine("{0} {1} {2} {3}", employee.Name, employee.Salary, employee.Email, employee.Age);
+            }
+            */
+            Dictionary<string, decimal> totalSalaries = new Dictionary<string, decimal>();
+            foreach (Employee employee in employees)
+            {
+                if (totalSalaries.ContainsKey(employee.Department))
+                {
+                    totalSalaries[employee.Department] += employee.Salary;
+                }
+                else
+                {
+                    totalSalaries[employee.Department] = employee.Salary;
+                }
+            }
+
+            decimal highestAverageSalary = decimal.MinValue;
+            string highestPaidDepartment = "";
+
+            foreach (string department in totalSalaries.Keys)
+            {
+                decimal averageSalary = totalSalaries[department] / employees.Where(e => e.Department == department).Count();
+                if (averageSalary > highestAverageSalary)
+                {
+                    highestAverageSalary = averageSalary;
+                    highestPaidDepartment = department;
+                }
+            }
+
+            Console.WriteLine("Highest Average Salary: {0}", highestPaidDepartment);
+            foreach (Employee employee in employees.Where(e => e.Department == highestPaidDepartment).OrderByDescending(e => e.Salary))
+            {
+                Console.WriteLine("{0} {1:F2} {2} {3}", employee.Name, employee.Salary, employee.Email, employee.Age);
             }
         }
     }

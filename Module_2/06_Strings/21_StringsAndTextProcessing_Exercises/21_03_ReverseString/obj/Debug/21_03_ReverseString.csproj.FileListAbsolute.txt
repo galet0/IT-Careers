@@ -5,3 +5,10 @@ C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_03_ReverseSt
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\obj\Debug\21_03_ReverseString.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\obj\Debug\21_03_ReverseString.exe
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\obj\Debug\21_03_ReverseString.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\bin\Debug\21_03_ReverseString.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\bin\Debug\21_03_ReverseString.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\bin\Debug\21_03_ReverseString.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\obj\Debug\21_03_ReverseString.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\obj\Debug\21_03_ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\obj\Debug\21_03_ReverseString.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_03_ReverseString\obj\Debug\21_03_ReverseString.pdb

@@ -1,0 +1,6 @@
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_02_SumBigNumbers\bin\Debug\22_02_SumBigNumbers.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_02_SumBigNumbers\bin\Debug\22_02_SumBigNumbers.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_02_SumBigNumbers\bin\Debug\22_02_SumBigNumbers.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_02_SumBigNumbers\obj\Debug\22_02_SumBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_02_SumBigNumbers\obj\Debug\22_02_SumBigNumbers.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_02_SumBigNumbers\obj\Debug\22_02_SumBigNumbers.pdb

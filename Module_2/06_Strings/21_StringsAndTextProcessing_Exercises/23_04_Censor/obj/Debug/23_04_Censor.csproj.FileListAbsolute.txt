@@ -1,0 +1,7 @@
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_04_Censor\bin\Debug\23_04_Censor.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_04_Censor\bin\Debug\23_04_Censor.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_04_Censor\bin\Debug\23_04_Censor.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_04_Censor\obj\Debug\23_04_Censor.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_04_Censor\obj\Debug\23_04_Censor.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_04_Censor\obj\Debug\23_04_Censor.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_04_Censor\obj\Debug\23_04_Censor.pdb

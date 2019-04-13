@@ -1,0 +1,7 @@
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_01_MagicChangeableWords\bin\Debug\22_01_MagicChangeableWords.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_01_MagicChangeableWords\bin\Debug\22_01_MagicChangeableWords.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_01_MagicChangeableWords\bin\Debug\22_01_MagicChangeableWords.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_01_MagicChangeableWords\obj\Debug\22_01_MagicChangeableWords.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_01_MagicChangeableWords\obj\Debug\22_01_MagicChangeableWords.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_01_MagicChangeableWords\obj\Debug\22_01_MagicChangeableWords.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_01_MagicChangeableWords\obj\Debug\22_01_MagicChangeableWords.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_02_OnlyLetters\bin\Debug\23_02_OnlyLetters.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_02_OnlyLetters\bin\Debug\23_02_OnlyLetters.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_02_OnlyLetters\bin\Debug\23_02_OnlyLetters.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_02_OnlyLetters\obj\Debug\23_02_OnlyLetters.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_02_OnlyLetters\obj\Debug\23_02_OnlyLetters.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_02_OnlyLetters\obj\Debug\23_02_OnlyLetters.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_02_OnlyLetters\obj\Debug\23_02_OnlyLetters.csprojAssemblyReference.cache

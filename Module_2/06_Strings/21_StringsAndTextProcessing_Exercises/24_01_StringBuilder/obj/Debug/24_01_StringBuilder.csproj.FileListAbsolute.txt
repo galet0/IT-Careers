@@ -1,0 +1,7 @@
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\24_01_StringBuilder\bin\Debug\24_01_StringBuilder.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\24_01_StringBuilder\bin\Debug\24_01_StringBuilder.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\24_01_StringBuilder\bin\Debug\24_01_StringBuilder.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\24_01_StringBuilder\obj\Debug\24_01_StringBuilder.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\24_01_StringBuilder\obj\Debug\24_01_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\24_01_StringBuilder\obj\Debug\24_01_StringBuilder.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\24_01_StringBuilder\obj\Debug\24_01_StringBuilder.pdb

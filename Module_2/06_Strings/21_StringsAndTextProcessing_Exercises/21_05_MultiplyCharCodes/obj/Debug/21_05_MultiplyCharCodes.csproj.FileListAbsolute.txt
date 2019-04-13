@@ -5,3 +5,10 @@ C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyC
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\obj\Debug\21_05_MultiplyCharCodes.exe
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\obj\Debug\21_05_MultiplyCharCodes.pdb
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\obj\Debug\21_05_MultiplyCharCodes.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\bin\Debug\21_05_MultiplyCharCodes.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\bin\Debug\21_05_MultiplyCharCodes.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\bin\Debug\21_05_MultiplyCharCodes.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\obj\Debug\21_05_MultiplyCharCodes.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\obj\Debug\21_05_MultiplyCharCodes.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\obj\Debug\21_05_MultiplyCharCodes.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_05_MultiplyCharCodes\obj\Debug\21_05_MultiplyCharCodes.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_03_HidingPlace\bin\Debug\23_03_HidingPlace.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_03_HidingPlace\bin\Debug\23_03_HidingPlace.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_03_HidingPlace\bin\Debug\23_03_HidingPlace.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_03_HidingPlace\obj\Debug\23_03_HidingPlace.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_03_HidingPlace\obj\Debug\23_03_HidingPlace.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_03_HidingPlace\obj\Debug\23_03_HidingPlace.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\23_03_HidingPlace\obj\Debug\23_03_HidingPlace.csprojAssemblyReference.cache

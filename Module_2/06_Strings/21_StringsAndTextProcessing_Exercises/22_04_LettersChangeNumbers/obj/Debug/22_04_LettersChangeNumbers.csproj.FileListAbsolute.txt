@@ -5,3 +5,10 @@ C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_04_LettersCh
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\obj\Debug\22_04_LettersChangeNumbers.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\obj\Debug\22_04_LettersChangeNumbers.exe
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\obj\Debug\22_04_LettersChangeNumbers.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\bin\Debug\22_04_LettersChangeNumbers.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\bin\Debug\22_04_LettersChangeNumbers.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\bin\Debug\22_04_LettersChangeNumbers.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\obj\Debug\22_04_LettersChangeNumbers.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\obj\Debug\22_04_LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\obj\Debug\22_04_LettersChangeNumbers.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\22_04_LettersChangeNumbers\obj\Debug\22_04_LettersChangeNumbers.pdb

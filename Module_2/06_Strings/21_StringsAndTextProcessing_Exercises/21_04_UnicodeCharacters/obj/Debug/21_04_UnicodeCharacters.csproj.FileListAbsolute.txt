@@ -5,3 +5,10 @@ C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCh
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\obj\Debug\21_04_UnicodeCharacters.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\obj\Debug\21_04_UnicodeCharacters.exe
 C:\Users\asus\source\repos\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\obj\Debug\21_04_UnicodeCharacters.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\bin\Debug\21_04_UnicodeCharacters.exe.config
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\bin\Debug\21_04_UnicodeCharacters.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\bin\Debug\21_04_UnicodeCharacters.pdb
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\obj\Debug\21_04_UnicodeCharacters.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\obj\Debug\21_04_UnicodeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\obj\Debug\21_04_UnicodeCharacters.exe
+C:\Users\asus\IT-Careers\Module_2\06_Strings\21_StringsAndTextProcessing_Exercises\21_04_UnicodeCharacters\obj\Debug\21_04_UnicodeCharacters.pdb

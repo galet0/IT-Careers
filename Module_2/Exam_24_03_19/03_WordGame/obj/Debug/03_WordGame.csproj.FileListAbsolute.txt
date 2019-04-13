@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\24_03_19_It_Karieri_Exam\03_WordGame\bin\Debug\03_WordGame.exe.config
+C:\Users\asus\source\repos\24_03_19_It_Karieri_Exam\03_WordGame\bin\Debug\03_WordGame.exe
+C:\Users\asus\source\repos\24_03_19_It_Karieri_Exam\03_WordGame\bin\Debug\03_WordGame.pdb
+C:\Users\asus\source\repos\24_03_19_It_Karieri_Exam\03_WordGame\obj\Debug\03_WordGame.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\24_03_19_It_Karieri_Exam\03_WordGame\obj\Debug\03_WordGame.exe
+C:\Users\asus\source\repos\24_03_19_It_Karieri_Exam\03_WordGame\obj\Debug\03_WordGame.pdb

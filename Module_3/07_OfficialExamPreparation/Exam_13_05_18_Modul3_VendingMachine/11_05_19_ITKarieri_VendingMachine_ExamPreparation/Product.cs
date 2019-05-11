@@ -28,7 +28,7 @@ namespace _11_05_19_ITKarieri_VendingMachine_ExamPreparation
                 //ProduCt
                 if (string.IsNullOrEmpty(value)
                     || string.IsNullOrWhiteSpace(value)
-                    || value.Equals(value.ToLower()))
+                    || !value.Equals(value.ToUpper()))
                 {
                     throw new ArgumentException("Invalid type!");
                 }

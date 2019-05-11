@@ -8,11 +8,16 @@ namespace _11_05_19_ITKarieri_VendingMachine_ExamPreparation
 {
     class Product
     {
+        //полетата на клас Product
+        //Всички продукти имат тип, име и цена:
         private string type;
         private string name;
         private double price;
+        //статично поле, което отброява колко продукта са продадени
         private static int ordersCount;
 
+        //конструктор за създаване на инстанция на класа 
+        //този конструктор трябва да приема типа, името и цената на продукта.
         public Product(string type, string name, double price)
         {
             this.Type = type;
@@ -20,15 +25,16 @@ namespace _11_05_19_ITKarieri_VendingMachine_ExamPreparation
             this.Price = price;
         }
 
+        //валидации за тип на продукта
         public string Type
         {
             get { return type; }
             private set
             {
-                //ProduCt
+                //Продукт-типът трябва да бъде текст създаден само от главни букви, ако не -  Invalid type!
                 if (string.IsNullOrEmpty(value)
                     || string.IsNullOrWhiteSpace(value)
-                    || !value.Equals(value.ToUpper()))
+                    || value.Equals(value.ToLower()))
                 {
                     throw new ArgumentException("Invalid type!");
                 }
@@ -42,7 +48,8 @@ namespace _11_05_19_ITKarieri_VendingMachine_ExamPreparation
             get { return this.name; }
             private set
             {
-                if(string.IsNullOrEmpty(value)
+                //Продукт-името трябва да бъде с дължина над 2 символа - Invalid name!
+                if (string.IsNullOrEmpty(value)
                     || string.IsNullOrWhiteSpace(value)
                     || value.Length < 2)
                 {
@@ -58,7 +65,8 @@ namespace _11_05_19_ITKarieri_VendingMachine_ExamPreparation
             get { return this.price; }
             private set
             {
-                if(value < 0)
+                //Цената на продукта трябва да положително число, ако не - Invalid price!
+                if (value < 0)
                 {
                     throw new ArgumentException("Invalid price!");
                 }
@@ -67,15 +75,23 @@ namespace _11_05_19_ITKarieri_VendingMachine_ExamPreparation
             }
         }
 
+        //статично свойство на брояча за продадени продукти
         public static int OrdersCount 
         {
             get { return Product.ordersCount; }
         }
 
+        //статичен метод, който използваме в клас VendingMachine
+        //за увеличаване броя на продадените продукти
         public static void IncreaseOrdersCount()
         {
             Product.ordersCount++;
         }
+
+        //PrintProductInfo <име> - отпечатва информация за продукт във формат:
+        //Product with type - <тип> and name - <име>
+        //Тази команда ще получава винаги валидни и съществуващи имена на продукти.
+        //За успешна реализация трябва да реализирате ваша версия на ToString() метода за класа Product.
 
         public override string ToString()
         {

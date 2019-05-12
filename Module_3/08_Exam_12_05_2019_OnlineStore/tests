@@ -1,0 +1,548 @@
+Case=Case 001
+grade reduction=0
+input=CreateProduct AirPods 149.90
+CreateProduct IphoneX 149.90 true
+CreateProduct IphoneXR 149.90 false
+CreateOrder 333333 IphoneX
+AddToOrder 333333 AirPods
+GetOrderTotalPrice 333333
+GetOrderDiscountedProductsPrice 333333
+GetOrderDiscountedProductsCount 333333
+PrintProductInfoByName IphoneX
+PrintOrderByNumber 333333
+GetTotalOrdersCount
+End
+output=269.82
+119.92
+1
+Product -> IphoneX with price 119.92. On promotion: YES
+Order #333333 has the following products:
+### Product -> IphoneX with price 119.92. On promotion: YES
+### Product -> AirPods with price 149.90. On promotion: NO
+1
+
+Case=Case 01
+Fail message= Case1_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50 false
+PrintProductInfoByName Monitor
+End
+output=Product -> Monitor with price 50.00. On promotion: NO
+
+Case=Case 02
+Fail message= Case2_fail
+grade reduction=5
+input=CreateProduct AirPods 13
+CreateProduct Monitor 50.50
+PrintProductInfoByName Monitor
+End
+output=Product -> Monitor with price 50.50. On promotion: NO
+
+Case=Case 03
+Fail message= Case3_fail
+grade reduction=5
+input=CreateProduct AirPods 13
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+
+Case=Case 04
+Fail message= Case4_fail
+grade reduction=5
+input=CreateProduct AirPods 13
+CreateProduct Monitor 50.50
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods Monitor
+PrintOrderByNumber 111
+End
+output=Product -> Monitor with price 50.50. On promotion: NO
+Order #111 has the following products:
+### Product -> AirPods with price 13.00. On promotion: NO
+### Product -> Monitor with price 50.50. On promotion: NO
+
+Case=Case 05
+Fail message= Case5_fail
+grade reduction=5
+input=CreateProduct AirPods 13
+CreateProduct Monitor 50.50
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods Monitor
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 true
+AddToOrder 111 Beats
+PrintOrderByNumber 111
+End
+output=Product -> Monitor with price 50.50. On promotion: NO
+Order #111 has the following products:
+### Product -> AirPods with price 13.00. On promotion: NO
+### Product -> Monitor with price 50.50. On promotion: NO
+Order #111 has the following products:
+### Product -> AirPods with price 13.00. On promotion: NO
+### Product -> Monitor with price 50.50. On promotion: NO
+### Product -> Beats with price 4.44. On promotion: YES
+
+Case=Case 06
+Fail message= Case6_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+
+Case=Case 07
+Fail message= Case7_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+GetOrderTotalPrice 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+56.35
+
+Case=Case 08
+Fail message= Case8_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+
+Case=Case 09
+Fail message= Case9_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+PrintOrderByNumber 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+
+Case=Case 10
+Fail message= Case10_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderDiscountedProductsPrice 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+50.8
+
+Case=Case 11
+Fail message= Case11_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+PrintOrderByNumber 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+
+Case=Case 12
+Fail message= Case12_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+PrintProductInfoByName Beats
+GetOrderDiscountedProductsPrice 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+Product -> Beats with price 5.55. On promotion: NO
+50.8
+
+Case=Case 13
+Fail message= Case13_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+GetOrderDiscountedProductsPrice 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+50.8
+
+Case=Case 14
+Fail message= Case14_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+PrintProductInfoByName Monitor
+PrintOrderByNumber 111
+GetOrderDiscountedProductsPrice 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+50.8
+
+Case=Case 15
+Fail message= Case15_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+PrintProductInfoByName Monitor
+PrintOrderByNumber 111
+GetOrderDiscountedProductsPrice 111
+GetTotalOrdersCount
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+50.8
+1
+
+Case=Case 16
+Fail message= Case16_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+PrintProductInfoByName Monitor
+PrintOrderByNumber 111
+GetOrderDiscountedProductsPrice 111
+GetOrderDiscountedProductsCount 111
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+50.8
+2
+
+Case=Case 17
+Fail message= Case17_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+PrintProductInfoByName Monitor
+PrintOrderByNumber 111
+GetOrderDiscountedProductsPrice 111
+GetOrderDiscountedProductsCount 111
+GetTotalOrdersCount
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+50.8
+2
+1
+
+Case=Case 18
+Fail message= Case18_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+PrintProductInfoByName Monitor
+PrintOrderByNumber 111
+GetOrderDiscountedProductsPrice 111
+GetOrderDiscountedProductsCount 111
+GetTotalOrdersCount
+CreateProduct Kafe 13333.7777777777777456 true
+PrintProductInfoByName Kafe
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+50.8
+2
+1
+Product -> Kafe with price 10667.02. On promotion: YES
+
+Case=Case 19
+Fail message= Case19_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+PrintProductInfoByName Monitor
+PrintOrderByNumber 111
+GetOrderDiscountedProductsPrice 111
+GetOrderDiscountedProductsCount 111
+GetTotalOrdersCount
+CreateProduct Kafe 13333.7777777777777456 true
+CreateProduct laptop -2 true
+PrintProductInfoByName Kafe
+PrintProductInfoByName laptop
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+50.8
+2
+1
+Price should be positive!
+Product -> Kafe with price 10667.02. On promotion: YES
+Invalid product laptop
+
+Case=Case 20
+Fail message= Case20_fail
+grade reduction=5
+input=CreateProduct AirPods 13 true
+CreateProduct Monitor 50.50 true
+PrintProductInfoByName Monitor
+CreateOrder 111 AirPods
+PrintOrderByNumber 111
+CreateProduct Beats 5.55 false
+AddToOrder 111 Beats Monitor
+PrintOrderByNumber 111
+PrintProductInfoByName AirPods
+GetOrderTotalPrice 111
+PrintProductInfoByName Monitor
+PrintOrderByNumber 111
+GetOrderDiscountedProductsPrice 111
+GetOrderDiscountedProductsCount 111
+GetTotalOrdersCount
+CreateProduct Kafe 13333.7777777777777456 true
+CreateProduct la 5 true
+PrintProductInfoByName Kafe
+PrintProductInfoByName la
+End
+output=Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+Product -> AirPods with price 10.40. On promotion: YES
+56.35
+Product -> Monitor with price 40.40. On promotion: YES
+Order #111 has the following products:
+### Product -> AirPods with price 10.40. On promotion: YES
+### Product -> Beats with price 5.55. On promotion: NO
+### Product -> Monitor with price 40.40. On promotion: YES
+50.8
+2
+1
+Invalid product name!
+Product -> Kafe with price 10667.02. On promotion: YES
+Invalid product la

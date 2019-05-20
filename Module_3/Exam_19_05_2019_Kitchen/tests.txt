@@ -1,0 +1,971 @@
+Case=Case 001
+grade reduction=0
+input=CreateDish kebapche mesni 1,19
+PrintDishInfoByName kebapche
+AddChef Petrov MESOGURO
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddDishToSpecificChef kufte Petrov
+AddDishToSpecificChef duner Petrov
+PrintChefInfoByName Petrov
+RemoveDishFromSpecificChef kufte Petrov
+PrintChefInfoByName Petrov
+RemoveAllDishesByFoodGroupFromSpecificChef vegan Petrov
+PrintChefInfoByName Petrov
+StartCookingChef Petrov
+DeliverDish kebapche Petrov
+DeliverDish kufte Petrov
+GiveChefABreak Petrov
+IsChefAvailable Petrov
+DeliverDish duner Petrov
+CreateDish parjolaaa mesni -5
+CreateDish parjolaaa mesni 0
+AddChef P SLADKAR
+AddChef Pa SLADKAR
+End
+output=Dish: kebapche of type mesni. Price 1,19
+Chef Petrov from department MESOGURO is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Petrov from department MESOGURO is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Successfully removed dish: kufte from chef Petrov!
+Chef Petrov from department MESOGURO is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Dish: duner of type vegan. Price 5,66
+Successfully removed dishes with food group: vegan from chef Petrov!
+Chef Petrov from department MESOGURO is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Petrov successfully cooked kebapche
+Chef Petrov failed to cook kufte!
+Chef Petrov is NOT available!
+Chef Petrov failed to cook duner!
+Invalid dish price!
+Invalid dish price!
+Invalid chef name!
+Invalid chef name!
+
+Case=Case 01
+Fail message= Case1_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+PrintDishInfoByName kebapche
+End
+output=Dish: kebapche of type mesni. Price 1,19
+
+Case=Case 02
+Fail message= Case2_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1
+CreateDish kufte vegan 0,5
+PrintDishInfoByName kebapche
+PrintDishInfoByName kufte
+End
+output=Dish: kebapche of type mesni. Price 1,00
+Dish: kufte of type vegan. Price 0,50
+
+
+Case=Case 03
+Fail message= Case3_fail
+grade reduction=5
+input=CreateDish sushu sushi 100,767676767777774
+PrintDishInfoByName sushu
+End
+output=Dish: sushu of type sushi. Price 100,77
+
+
+Case=Case 04
+Fail message= Case4_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+
+
+Case=Case 05
+Fail message= Case5_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+
+
+Case=Case 06
+Fail message= Case6_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+
+
+Case=Case 07
+Fail message= Case7_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+RemoveDishFromSpecificChef kufte Hristov
+PrintChefInfoByName Hristov
+RemoveDishFromSpecificChef asd Hristov
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Successfully removed dish: kufte from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Non existing dish!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Dish: kufte of type mesni. Price 1,20
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+
+
+Case=Case 08
+Fail message= Case8_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+RemoveDishFromSpecificChef kufte Hristov
+PrintChefInfoByName Hristov
+RemoveDishFromSpecificChef asd Hristov
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+RemoveAllDishesByFoodGroupFromSpecificChef mesni Hristov
+PrintChefInfoByName Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Successfully removed dish: kufte from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Non existing dish!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Dish: kufte of type mesni. Price 1,20
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+Successfully removed dishes with food group: mesni from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+
+
+Case=Case 09
+Fail message= Case9_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+RemoveAllDishesByFoodGroupFromSpecificChef mesni Hristov
+PrintChefInfoByName Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni, Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+Successfully removed dishes with food group: mesni from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+
+
+Case=Case 10
+Fail message= Case10_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+CountExpensiveDishesOfFoodGroupFromSpecificChef mesni 0,5 Hristov
+RemoveAllDishesByFoodGroupFromSpecificChef mesni Hristov
+PrintChefInfoByName Hristov
+CountExpensiveDishesOfFoodGroupFromSpecificChef mesni 0,5 Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+3
+Successfully removed dishes with food group: mesni from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+0
+
+
+Case=Case 11
+Fail message= Case11_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+CountExpensiveDishesOfFoodGroupFromSpecificChef mesni 0,5 Hristov
+StartCookingChef Hristov
+PrintChefInfoByName Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+3
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+
+
+Case=Case 12
+Fail message= Case12_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+CountExpensiveDishesOfFoodGroupFromSpecificChef mesni 0,5 Hristov
+RemoveAllDishesByFoodGroupFromSpecificChef mesni Hristov
+PrintChefInfoByName Hristov
+StartCookingChef Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+3
+Successfully removed dishes with food group: mesni from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+
+
+Case=Case 13
+Fail message= Case13_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+RemoveDishFromSpecificChef kufte Hristov
+RemoveDishFromSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+StartCookingChef Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+Successfully removed dish: kufte from chef Hristov!
+Successfully removed dish: duner from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+
+
+Case=Case 14
+Fail message= Case14_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+RemoveDishFromSpecificChef kufte Hristov
+RemoveDishFromSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+StartCookingChef Hristov
+RemoveAllDishesByFoodGroupFromSpecificChef vegan Hristov
+CountExpensiveDishesOfFoodGroupFromSpecificChef mesni 0,5 Hristov
+RemoveAllDishesByFoodGroupFromSpecificChef mesni Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+Successfully removed dish: kufte from chef Hristov!
+Successfully removed dish: duner from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+Dish removal failed.
+2
+Successfully removed dishes with food group: mesni from chef Hristov!
+
+
+Case=Case 15
+Fail message= Case15_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+DeliverDish kebap Hristov
+DeliverDish parjola Hristov
+DeliverDish parjolaaaaaa Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov successfully cooked kebap
+Chef Hristov successfully cooked parjola
+Non existing dish!
+
+
+Case=Case 16
+Fail message= Case16_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+GiveChefABreak Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+
+
+Case=Case 17
+Fail message= Case17_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+GiveChefABreak Hristov
+IsChefAvailable Hristov
+StartCookingChef Hristov
+IsChefAvailable Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov is NOT available!
+Chef Hristov is available!
+
+
+Case=Case 18
+Fail message= Case18_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+GiveChefABreak Hristov
+IsChefAvailable Hristov
+StartCookingChef Hristov
+IsChefAvailable Hristov
+DeliverDish kebap Hristov
+GiveChefABreak Hristov
+DeliverDish kebap Hristov
+StartCookingChef Hristov
+DeliverDish kebap Hristov
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Hristov is NOT available!
+Chef Hristov is available!
+Chef Hristov successfully cooked kebap
+Chef Hristov failed to cook kebap!
+Chef Hristov successfully cooked kebap
+
+
+Case=Case 19
+Fail message= Case19_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+RemoveDishFromSpecificChef kufte Hristov
+PrintChefInfoByName Hristov
+RemoveDishFromSpecificChef asd Hristov
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+CreateDish parjolaaa mesni -5
+CreateDish parjolaaa mesni 0
+CreateDish parjolaaa mesni 0,00
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Successfully removed dish: kufte from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan, Price 5,66
+Non existing dish!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Dish: kufte of type mesni. Price 1,20
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+Invalid dish price!
+Invalid dish price!
+Invalid dish price!
+
+
+Case=Case 20
+Fail message= Case20_fail
+grade reduction=5
+input=CreateDish kebapche mesni 1,19
+AddChef Petrov SLADKAR
+AddDishToSpecificChef kebapche Petrov
+PrintChefInfoByName Petrov
+CreateDish kufte mesni 1,199797987688
+CreateDish duner vegan 5,655
+AddChef Hristov VEGANMASTER
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef duner Hristov
+PrintChefInfoByName Hristov
+AddChef Petrov1 SLADKAR
+AddChef Petrov2 SLADKAR
+AddDishToSpecificChef kufte Petrov1
+AddDishToSpecificChef kufte Petrov2
+PrintChefInfoByName Petrov1
+PrintChefInfoByName Petrov2
+PrintDishInfoByName kufte
+PrintDishInfoByName duner
+RemoveDishFromSpecificChef kufte Hristov
+PrintChefInfoByName Hristov
+RemoveDishFromSpecificChef asd Hristov
+PrintChefInfoByName Hristov
+CreateDish shnicel mesni 1,19
+CreateDish kebap mesni 1,19
+CreateDish shishche mesni 1,19
+CreateDish parjola mesni 1,19
+AddDishToSpecificChef kufte Hristov
+AddDishToSpecificChef kebap Hristov
+AddDishToSpecificChef parjola Hristov
+PrintChefInfoByName Hristov
+CreateDish parjolaaa mesni -5
+CreateDish parjolaaa mesni 0
+CreateDish parjolaaa mesni 0,00
+AddChef P SLADKAR
+AddChef Pa SLADKAR
+AddChef Paa SLADKAR
+AddChef Paaa SLADKdaadaAR
+AddChef Paaa SLADKdaadaAR
+End
+output=Chef Petrov from department SLADKAR is able to cook the following dishes:
+Dish: kebapche of type mesni. Price 1,19
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Chef Petrov1 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Chef Petrov2 from department SLADKAR is able to cook the following dishes:
+Dish: kufte of type mesni. Price 1,20
+Dish: kufte of type mesni. Price 1,20
+Dish: duner of type vegan. Price 5,66
+Successfully removed dish: kufte from chef Hristov!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Non existing dish!
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Chef Hristov from department VEGANMASTER is able to cook the following dishes:
+Dish: duner of type vegan. Price 5,66
+Dish: kufte of type mesni. Price 1,20
+Dish: kebap of type mesni. Price 1,19
+Dish: parjola of type mesni. Price 1,19
+Invalid dish price!
+Invalid dish price!
+Invalid dish price!
+Invalid chef name!
+Invalid chef name!
+Department name should be uppercase word!
+Department name should be uppercase word!

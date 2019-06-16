@@ -85,7 +85,7 @@ namespace _04_02_01_StretchingArray
 
         private void CheckIndexOutsideBounds(int index)
         {
-            if (index < 0 || index >= items.Length)
+            if (index < 0 || index >= this.Length)
             {
                 throw new IndexOutOfRangeException();
             }
@@ -93,12 +93,17 @@ namespace _04_02_01_StretchingArray
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            //foreach (var item in this.items)
+            //{
+            //    yield return item;
+            //}
+
+            return this.items.GetEnumerator();
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            throw new NotImplementedException();
+            return this.GetEnumerator();
         }
     }
 }

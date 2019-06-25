@@ -22,12 +22,12 @@ namespace Stack_ADS
         {
             if (this.Count == this.items.Length)
             {
-                //TO DO Grow();
+                this.Grow();
             }
 
             this.items[this.Count] = element;
             this.Count++;
-        }
+        }        
 
         public T Pop()
         {
@@ -48,5 +48,26 @@ namespace Stack_ADS
             return element;
         }
 
+        public T[] ToArray()
+        {
+            T[] temp = new T[this.Count];
+            for (int i = 0; i < this.Count; i++)
+            {
+                temp[i] = this.items[i];
+            }
+
+            return temp;
+        }
+
+        private void Grow()
+        {
+            T[] temp = new T[this.items.Length * 2];
+            for (int i = 0; i < this.Count; i++)
+            {
+                temp[i] = items[i];
+            }
+
+            this.items = temp;
+        }
     }
 }

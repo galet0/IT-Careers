@@ -15,7 +15,10 @@ namespace Stack_ADS
             stack.Push("gosho");
             stack.Push("tosho");
 
-
+            Stack<int> stack1 = new Stack<int>();
+            stack1.Push(2);
+            stack1.Push(3);
+            stack1.Push(5);
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Count);
         }

@@ -1,0 +1,7 @@
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\02_Linear Data Structures\04_Stack\Stack_ADS\bin\Debug\Stack_ADS.exe.config
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\02_Linear Data Structures\04_Stack\Stack_ADS\bin\Debug\Stack_ADS.exe
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\02_Linear Data Structures\04_Stack\Stack_ADS\bin\Debug\Stack_ADS.pdb
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\02_Linear Data Structures\04_Stack\Stack_ADS\obj\Debug\Stack_ADS.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\02_Linear Data Structures\04_Stack\Stack_ADS\obj\Debug\Stack_ADS.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\02_Linear Data Structures\04_Stack\Stack_ADS\obj\Debug\Stack_ADS.exe
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\02_Linear Data Structures\04_Stack\Stack_ADS\obj\Debug\Stack_ADS.pdb

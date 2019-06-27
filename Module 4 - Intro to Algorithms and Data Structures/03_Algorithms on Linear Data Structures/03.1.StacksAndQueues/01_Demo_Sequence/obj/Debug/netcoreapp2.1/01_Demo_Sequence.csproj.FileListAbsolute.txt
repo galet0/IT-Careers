@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\bin\Debug\netcoreapp2.1\01_Demo_Sequence.deps.json
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\bin\Debug\netcoreapp2.1\01_Demo_Sequence.runtimeconfig.json
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\bin\Debug\netcoreapp2.1\01_Demo_Sequence.runtimeconfig.dev.json
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\bin\Debug\netcoreapp2.1\01_Demo_Sequence.dll
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\bin\Debug\netcoreapp2.1\01_Demo_Sequence.pdb
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\obj\Debug\netcoreapp2.1\01_Demo_Sequence.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\obj\Debug\netcoreapp2.1\01_Demo_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\obj\Debug\netcoreapp2.1\01_Demo_Sequence.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\obj\Debug\netcoreapp2.1\01_Demo_Sequence.AssemblyInfo.cs
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\obj\Debug\netcoreapp2.1\01_Demo_Sequence.dll
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_Sequence\obj\Debug\netcoreapp2.1\01_Demo_Sequence.pdb

@@ -8,40 +8,35 @@ namespace DoubleLinkedList
         {
             DoublyLinkedList<int> list = new DoublyLinkedList<int>();
 
-            list.AddFirst(5);
-            list.AddFirst(8);
+            list.AddFirst(1);
+            list.AddFirst(2);
+            list.AddLast(9);
+            list.AddLast(10);
+            list.AddLast(11);
 
-            list.AddLast(6);
-
-            //8 5 6
             //list.ForEach(Print);
 
-            list.ForEach(delegate (int item)
+            list.ForEach(delegate (int n)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(n);
             });
+            Console.WriteLine();
+            Console.WriteLine("Removed: " + list.RemoveFirst());
+            list.ForEach(Print);
 
-            //while(list.Count > 0)
-            //{
-            //    Console.WriteLine(list.RemoveFirst());
-            //}
-            //Console.WriteLine(list.RemoveFirst());
-
-            //while (list.Count > 0)
-            //{
-            //    Console.WriteLine(list.RemoveLast());
-            //}
-            //Console.WriteLine(list.RemoveLast());
+            Console.WriteLine("Removed: " + list.RemoveLast());
+            list.ForEach(Print);
 
             int[] arr = list.ToArray();
+            Console.WriteLine(string.Join(", ", arr));
 
-            Console.WriteLine(string.Join(" ", arr));
-
+            int sum = 0;
             foreach (int item in list)
             {
-                Console.WriteLine("-- {0} --", item);
+                sum += item;
             }
 
+            Console.WriteLine("sum = {0}", sum);
             int[] reversed = list.Reverse();
             Console.WriteLine(string.Join(", ", reversed));
 

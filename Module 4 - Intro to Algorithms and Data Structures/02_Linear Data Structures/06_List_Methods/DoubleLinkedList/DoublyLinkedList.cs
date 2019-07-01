@@ -26,19 +26,18 @@ namespace DoubleLinkedList
 
         public void AddFirst(T element)
         {
-            Node<T> newNode = new Node<T>(element);
-            if(this.Count == 0)
+            Node<T> newHead = new Node<T>(element);
+
+            if (this.Count == 0)
             {
-                this.head = newNode;
-                this.tail = newNode;
+                this.head = newHead;
+                this.tail = newHead;
             }
-            //6 7
             else
             {
-                newNode.NextNode = this.head;
-                newNode.PrevNode = null;
-                this.head.PrevNode = newNode;
-                this.head = newNode;
+                newHead.NextNode = this.head;
+                this.head.PrevNode = newHead;
+                this.head = newHead;
             }
 
             this.Count++;
@@ -56,21 +55,18 @@ namespace DoubleLinkedList
 
         public void AddLast(T element)
         {
-            //6
             Node<T> newTail = new Node<T>(element);
-            if(this.Count == 0)
+
+            if (this.Count == 0)
             {
                 this.head = newTail;
                 this.tail = newTail;
             }
-            //6 7
             else
             {
-                
                 newTail.PrevNode = this.tail;
-                newTail.NextNode = null;
                 this.tail.NextNode = newTail;
-                this.tail = newTail; 
+                this.tail = newTail;
             }
 
             this.Count++;
@@ -79,11 +75,11 @@ namespace DoubleLinkedList
         public T RemoveFirst()
         {
             CheckListIsEmpty();
-
-            T element = this.head.Value;
+            
+            T firstElement = this.head.Value;
             this.head = this.head.NextNode;
 
-            if(this.head != null)
+            if (this.head != null)
             {
                 this.head.PrevNode = null;
             }
@@ -93,17 +89,17 @@ namespace DoubleLinkedList
             }
 
             this.Count--;
-            return element;
+            return firstElement;
         }
 
         public T RemoveLast()
         {
             CheckListIsEmpty();
 
-            T element = this.tail.Value;
+            T lastElement = this.tail.Value;
             this.tail = this.tail.PrevNode;
 
-            if(this.tail != null)
+            if (this.tail != null)
             {
                 this.tail.NextNode = null;
             }
@@ -113,7 +109,7 @@ namespace DoubleLinkedList
             }
 
             this.Count--;
-            return element;
+            return lastElement;
         }
 
         public T[] ToArray()

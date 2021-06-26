@@ -1,0 +1,16 @@
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\bin\Debug\net5.0\03_CombinationsWithRepeats.exe
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\bin\Debug\net5.0\03_CombinationsWithRepeats.deps.json
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\bin\Debug\net5.0\03_CombinationsWithRepeats.runtimeconfig.json
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\bin\Debug\net5.0\03_CombinationsWithRepeats.runtimeconfig.dev.json
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\bin\Debug\net5.0\03_CombinationsWithRepeats.dll
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\bin\Debug\net5.0\ref\03_CombinationsWithRepeats.dll
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\bin\Debug\net5.0\03_CombinationsWithRepeats.pdb
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\03_CombinationsWithRepeats.csproj.AssemblyReference.cache
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\03_CombinationsWithRepeats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\03_CombinationsWithRepeats.AssemblyInfoInputs.cache
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\03_CombinationsWithRepeats.AssemblyInfo.cs
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\03_CombinationsWithRepeats.csproj.CoreCompileInputs.cache
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\03_CombinationsWithRepeats.dll
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\ref\03_CombinationsWithRepeats.dll
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\03_CombinationsWithRepeats.pdb
+C:\Users\wewww\source\repos\01_ReverseArray\03_CombinationsWithRepeats\obj\Debug\net5.0\03_CombinationsWithRepeats.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\bin\Debug\net5.0\01_ReverseArray.exe
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\bin\Debug\net5.0\01_ReverseArray.deps.json
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\bin\Debug\net5.0\01_ReverseArray.runtimeconfig.json
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\bin\Debug\net5.0\01_ReverseArray.runtimeconfig.dev.json
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\bin\Debug\net5.0\01_ReverseArray.dll
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\bin\Debug\net5.0\ref\01_ReverseArray.dll
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\bin\Debug\net5.0\01_ReverseArray.pdb
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\01_ReverseArray.csproj.AssemblyReference.cache
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\01_ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\01_ReverseArray.AssemblyInfoInputs.cache
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\01_ReverseArray.AssemblyInfo.cs
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\01_ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\01_ReverseArray.dll
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\ref\01_ReverseArray.dll
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\01_ReverseArray.pdb
+C:\Users\wewww\source\repos\01_ReverseArray\06_1_AdditionalTasks\obj\Debug\net5.0\01_ReverseArray.genruntimeconfig.cache

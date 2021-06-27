@@ -1,0 +1,16 @@
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\06_ConnectedArraysInMatrix.csproj.AssemblyReference.cache
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\06_ConnectedArraysInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\06_ConnectedArraysInMatrix.AssemblyInfoInputs.cache
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\06_ConnectedArraysInMatrix.AssemblyInfo.cs
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\06_ConnectedArraysInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\bin\Debug\net5.0\06_ConnectedArraysInMatrix.exe
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\bin\Debug\net5.0\06_ConnectedArraysInMatrix.deps.json
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\bin\Debug\net5.0\06_ConnectedArraysInMatrix.runtimeconfig.json
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\bin\Debug\net5.0\06_ConnectedArraysInMatrix.runtimeconfig.dev.json
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\bin\Debug\net5.0\06_ConnectedArraysInMatrix.dll
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\bin\Debug\net5.0\ref\06_ConnectedArraysInMatrix.dll
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\bin\Debug\net5.0\06_ConnectedArraysInMatrix.pdb
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\06_ConnectedArraysInMatrix.dll
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\ref\06_ConnectedArraysInMatrix.dll
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\06_ConnectedArraysInMatrix.pdb
+C:\Users\wewww\source\repos\01_ReverseArray\06_ConnectedArraysInMatrix\obj\Debug\net5.0\06_ConnectedArraysInMatrix.genruntimeconfig.cache

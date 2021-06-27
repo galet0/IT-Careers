@@ -1,0 +1,16 @@
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\bin\Debug\net5.0\04_HanoiTowers.exe
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\bin\Debug\net5.0\04_HanoiTowers.deps.json
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\bin\Debug\net5.0\04_HanoiTowers.runtimeconfig.json
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\bin\Debug\net5.0\04_HanoiTowers.runtimeconfig.dev.json
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\bin\Debug\net5.0\04_HanoiTowers.dll
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\bin\Debug\net5.0\ref\04_HanoiTowers.dll
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\bin\Debug\net5.0\04_HanoiTowers.pdb
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\04_HanoiTowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\04_HanoiTowers.AssemblyInfoInputs.cache
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\04_HanoiTowers.AssemblyInfo.cs
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\04_HanoiTowers.csproj.CoreCompileInputs.cache
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\04_HanoiTowers.dll
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\ref\04_HanoiTowers.dll
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\04_HanoiTowers.pdb
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\04_HanoiTowers.genruntimeconfig.cache
+C:\Users\wewww\source\repos\01_ReverseArray\04_HanoiTowers\obj\Debug\net5.0\04_HanoiTowers.csproj.AssemblyReference.cache
